@@ -1,3 +1,4 @@
-# git-bootcamp
+git-bootcamp
 
-Please read branch 'Module 1 Challenge'
+
+## Please read branch 'Module 1 Challenge'
